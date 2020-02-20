@@ -1,0 +1,55 @@
+{
+    "Ten": "TV Toshiba",
+    "Ma_so": "TIVI_28",
+    "Ky_hieu": "32DS510V",
+    "Don_gia_Ban": 12490000,
+    "Don_gia_Nhap": 11090000,
+    "So_luong_Ton": 75,
+    "Danh_sach_Phieu_Ban": [
+        {
+            "Ngay": "12-02-2020",
+            "So_luong": 1,
+            "Don_gia": 12490000,
+            "Tien": 12490000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        },
+        {
+            "Ngay": "12-02-2020",
+            "So_luong": 1,
+            "Don_gia": 12490000,
+            "Tien": 12490000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        },
+        {
+            "Ngay": "12-02-2020",
+            "So_luong": 1,
+            "Don_gia": 12490000,
+            "Tien": 12490000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        },
+        {
+            "Ngay": "12-02-2020",
+            "So_luong": 1,
+            "Don_gia": 12490000,
+            "Tien": 12490000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        }
+    ],
+    "Danh_sach_Phieu_Nhap": [],
+    "Nhom_Tivi": {
+        "Ten": "Khác",
+        "Ma_so": "KHAC"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "Ten": "TV Panasonic",
+    "Ma_so": "TIVI_32",
+    "Ky_hieu": "32DS500V",
+    "Don_gia_Ban": 11500000,
+    "Don_gia_Nhap": 10590000,
+    "So_luong_Ton": 3,
+    "Danh_sach_Phieu_Ban": [
+        {
+            "Ngay": "07-02-2020",
+            "So_luong": 1,
+            "Don_gia": 11500000,
+            "Tien": 11500000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        },
+        {
+            "Ngay": "07-02-2020",
+            "So_luong": 1,
+            "Don_gia": 11500000,
+            "Tien": 11500000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        },
+        {
+            "Ngay": "10-02-2020",
+            "So_luong": 1,
+            "Don_gia": 11500000,
+            "Tien": 11500000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        }
+    ],
+    "Danh_sach_Phieu_Nhap": [],
+    "Nhom_Tivi": {
+        "Ten": "Khác",
+        "Ma_so": "KHAC"
+    }
+}

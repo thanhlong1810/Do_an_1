@@ -1,0 +1,136 @@
+{
+    "Ten": "Internet Tivi SONY Ultra HD 55 inch",
+    "Ma_so": "TIVI_24",
+    "Ky_hieu": "KD_55X7000E",
+    "Don_gia_Ban": 8640000,
+    "Don_gia_Nhap": 7540000,
+    "So_luong_Ton": 52,
+    "Danh_sach_Phieu_Ban": [
+        {
+            "Ngay": "14-01-2020",
+            "So_luong": 1,
+            "Don_gia": 8640000,
+            "Tien": 8640000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        },
+        {
+            "Ngay": "14-01-2020",
+            "So_luong": 1,
+            "Don_gia": 8640000,
+            "Tien": 8640000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        },
+        {
+            "Ngay": "14-01-2020",
+            "So_luong": 1,
+            "Don_gia": 8640000,
+            "Tien": 8640000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        },
+        {
+            "Ngay": "14-01-2020",
+            "So_luong": 1,
+            "Don_gia": 8640000,
+            "Tien": 8640000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        },
+        {
+            "Ngay": "03-02-2020",
+            "So_luong": 5,
+            "Don_gia": 8640000,
+            "Tien": 43200000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        }
+    ],
+    "Danh_sach_Phieu_Nhap": [
+        {
+            "Ngay": "14-01-2020",
+            "So_luong": 1,
+            "Don_gia": 7540000,
+            "Tien": 7540000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        },
+        {
+            "Ngay": "14-01-2020",
+            "So_luong": 1,
+            "Don_gia": 7540000,
+            "Tien": 7540000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        },
+        {
+            "Ngay": "14-01-2020",
+            "So_luong": 1,
+            "Don_gia": 7540000,
+            "Tien": 7540000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        },
+        {
+            "Ngay": "14-01-2020",
+            "So_luong": 1,
+            "Don_gia": 7540000,
+            "Tien": 7540000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        },
+        {
+            "Ngay": "14-01-2020",
+            "So_luong": 1,
+            "Don_gia": 7540000,
+            "Tien": 7540000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        },
+        {
+            "Ngay": "14-01-2020",
+            "So_luong": 1,
+            "Don_gia": 7540000,
+            "Tien": 7540000,
+            "Nhan_vien": {
+                "Ho_ten": "Tô thị bé Bé",
+                "Ma_so": "NV_2"
+            }
+        },
+        {
+            "Ngay": "05-02-2020",
+            "So_luong": 1,
+            "Don_gia": 7540000,
+            "Tien": 7540000,
+            "Nhan_vien": {
+                "Ho_ten": "Nguyễn thị bé Nhỏ",
+                "Ma_so": "NV_1"
+            }
+        }
+    ],
+    "Nhom_Tivi": {
+        "Ten": "Sony",
+        "Ma_so": "SONY"
+    }
+}
